@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://xenodochial-perlman-18ff4b.netlify.com"
+baseURL = "http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # disable language
