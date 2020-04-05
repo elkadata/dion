@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>http://xenodochial-perlman-18ff4b.netlify.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/categories/"
+                href="http://xenodochial-perlman-18ff4b.netlify.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/categories/"
+                href="http://xenodochial-perlman-18ff4b.netlify.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>http://xenodochial-perlman-18ff4b.netlify.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/"
+                href="http://xenodochial-perlman-18ff4b.netlify.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/"
+                href="http://xenodochial-perlman-18ff4b.netlify.com/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>http://xenodochial-perlman-18ff4b.netlify.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/tags/"
+                href="http://xenodochial-perlman-18ff4b.netlify.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/tags/"
+                href="http://xenodochial-perlman-18ff4b.netlify.com/tags/"
                 />
   </url>
   
