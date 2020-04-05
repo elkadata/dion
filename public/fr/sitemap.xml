@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://xenodochial-perlman-18ff4b.netlify.com/fr/categories/</loc>
+    <loc>http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://xenodochial-perlman-18ff4b.netlify.com/categories/"
+                href="http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://xenodochial-perlman-18ff4b.netlify.com/fr/categories/"
+                href="http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://xenodochial-perlman-18ff4b.netlify.com/fr/</loc>
+    <loc>http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://xenodochial-perlman-18ff4b.netlify.com/"
+                href="http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://xenodochial-perlman-18ff4b.netlify.com/fr/"
+                href="http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://xenodochial-perlman-18ff4b.netlify.com/fr/tags/</loc>
+    <loc>http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://xenodochial-perlman-18ff4b.netlify.com/tags/"
+                href="http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://xenodochial-perlman-18ff4b.netlify.com/fr/tags/"
+                href="http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com/fr/tags/"
                 />
   </url>
   

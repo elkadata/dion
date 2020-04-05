@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://www.portalgo.net.s3-website-ap-southeast-1.amazonaws.com"
+baseURL = "https://master.dcadg1k9vk8lv.amplifyapp.com"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # disable language
