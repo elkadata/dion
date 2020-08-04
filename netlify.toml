@@ -1,7 +1,8 @@
 [build]
-  publish = "public"
-  command = "hugo"
-  
-[build.environment]
-  HUGO_VERSION = "0.60.1"
-  HUGO_THEME = "somrat"
+publish = "public"
+command = "hugo"
+
+[context.production.environment]
+HUGO_VERSION = "0.72.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
